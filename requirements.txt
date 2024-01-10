@@ -4,3 +4,4 @@ jupysql
 ipykernel
 pandas
 leafmap
+pyogrio
