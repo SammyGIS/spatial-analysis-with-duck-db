@@ -3,4 +3,5 @@ Pipfile
 Pipefile.lock
 data
 *.zip
-
+*.db
+*.wal
