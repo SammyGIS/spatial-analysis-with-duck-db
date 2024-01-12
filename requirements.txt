@@ -5,3 +5,6 @@ ipykernel
 pandas
 leafmap
 pyogrio
+folium
+matplotlib
+mapclassify
